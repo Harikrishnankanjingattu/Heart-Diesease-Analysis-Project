@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Data Analysis
+#  Heart Disease Data Analysis
 
 This project focuses on **Exploratory Data Analysis (EDA)** of the Heart Disease dataset. The objective is to understand the dataset, identify patterns, discover relationships between medical attributes, and visualize important insights using Python data analysis libraries.
 
